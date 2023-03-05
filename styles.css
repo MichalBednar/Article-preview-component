@@ -86,6 +86,7 @@ main {
 }
 .profile .share-btn:hover {
   background-color: hsl(210, 27%, 88%);
+  cursor: pointer;
 }
 
 .share {
