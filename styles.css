@@ -127,6 +127,7 @@ main {
 }
 .share .share-area .share-close-btn:hover {
   background-color: hsl(214, 14%, 55%);
+  cursor: pointer;
 }
 .share .triangle {
   display: none;
