@@ -67,6 +67,7 @@ main {
 .profile .profile-text header {
   font-size: 1.4rem;
   font-weight: 700;
+  color: hsl(217, 19%, 35%);
 }
 .profile .profile-text p {
   font-size: 1.3rem;
